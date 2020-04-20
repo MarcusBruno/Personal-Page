@@ -25,7 +25,7 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-resume/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/MarcusBruno/marcusbruno.github.io/master/LICENSE)
 
 ## Copyright and License
 
